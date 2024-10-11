@@ -1,0 +1,43 @@
+project:
+  type: website
+website:
+  title: "ECTQG"
+  back-to-top-navigation: true
+  page-footer:
+   right: "Website created with [Quarto](https://quarto.org/)."
+  navbar:
+    title: "ECTQG"
+    background: "black"
+    #foreground: "white"
+    search: true
+    right:
+      - text: "About"
+        href: about.qmd
+      - text: "Colloquia"
+        href: colloquia.qmd
+      - text: "@Eurotqg"
+        href: eurotqg.qmd
+      - text: "..."
+        menu:
+          - text: "Informal board"
+            href: informal.qmd
+          - text: "Youtube"
+            href: youtube.qmd
+    left:
+      - text: "Tallinn 2025"
+        menu:
+          - text: "Calls"
+            href: 2025/2025_calls.qmd
+          - text: "Venue"
+            href: 2025/2025_venue.qmd
+          - text: "Programme"
+            href: 2025/2025_programme.qmd
+      - text: "European Colloquium on Theoretical and Quantitative Geography"
+        href: index.qmd
+    #tools:
+    #- icon: github
+    #    href: https://github.com/geocaruso/ectqg
+format:
+  html:
+    theme: Cyborg
+css: none
