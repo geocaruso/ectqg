@@ -21,8 +21,8 @@ website:
         menu:
           - text: "Informal board"
             href: informal.qmd
-          - text: "Youtube"
-            href: youtube.qmd
+          - text: "Web"
+            href: web.qmd
     left:
       - text: "Tallinn 2025"
         menu:
@@ -32,6 +32,8 @@ website:
             href: 2025/2025_venue.qmd
           - text: "Programme"
             href: 2025/2025_programme.qmd
+          - text: "ECTGQ 2025, Tallinn"
+            href: 2025/2025_welcome.qmd
       - text: "European Colloquium on Theoretical and Quantitative Geography"
         href: index.qmd
     #tools:

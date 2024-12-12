@@ -1,0 +1,11 @@
+# Web
+
+## Youtube
+
+Keynotes and presentations were video recorded during the Manchester ECTQG 2021.
+
+Visit the [Youtube](https://www.youtube.com/playlist?app=desktop&list=PLa8mg5RiGi_0i2xBK_IkZ_2gSyzaqkEHY) playlist !
+
+## Github
+
+The present website is static and lightweight for the community to update it easily and with little institutional constraints. It is built from Quarto *qmd* files from within Posit/RStudio, all available on Github, and its \_site part ftp'd to [ectqg.org](ectqg.org) . Don't hesitate to suggest improvements or raise any issue at <https://github.com/geocaruso/ectqg>
