@@ -1,38 +1,40 @@
-# Important dates and calls
+# ECTQG 2025 Important dates and calls
 
-**Special session / workshop proposals**
+**OPEN: Special Session / Workshop proposals**
 
-[*Extended to January 15th !*]{style="color: gold"}
-
--  from November 15th to **December 31st** (by email to X)
+-   from December 12th to **January 15th** (by email to **info\@ectqg.org**)
 
 **Long abstracts submission**
 
-[*Extended to April 30th ! *]{style="color: gold"}
-
--  from February 15th to **April 15th** (via Easychair)
+-   from January 31st to **March 31st** (via EasyChair)
 
 **Colloquium registration and payments**
 
--   Early bird (reduced fee): from May 15th to June 15th
--   Full registration: from June 16th to [July 15th]{style="color: red"}
+-   Early bird registration with a reduced fee: from May 15th to June 15th
+-   Full registration: from June 16th to July 15th
 
+## Call for Special Sessions and Workshops
 
-## Call for (long) abstracts
+The 24th European Colloquium on Theoretical and Quantitative Geography (ECTQG) will take place in Tallinn, Estonia from the 10th to 14th of September 2025.
 
-The xth European Colloquium on Theoretical and Quantitative Geography (ECTQG) will take place in x from x to x of September 20xx.
+We are pleased to inform you that the call for special sessions and workshops is now open from **December 12th** and is open until the **15th of January 2025**.
 
-We are pleased to inform you that the call for abstracts is open until the **15th of April** !
-`! The abstract submission deadline has been extended to the 30th of April !`
+Special Sessions will have between 4 and 6 registered participants. A Special Session must address a hot theoretical, methodological, or thematic issues within the ECTQG scope.
 
-Submissions are welcome for any topic of interest in quantitative and theoretical geography. In addition, X specifically organised sessions have been accepted, which we encourage you to consider while submitting your abstract. See Special Sessions.
+Submissions can be made via e-mail to **info\@ectqg.org** Please include the following information:
 
-Abstracts submission is to be made via https://easychair.org/conferences/?conf=ectqg2025 (you will need to use/create an account on EasyChair). Each abstract is expected to be between 400 and 800 words. A speaker must be indicated among the listed authors. There is a limit of 2 proposals per speaker and each speaker is expected to be a registered participant.
+-   the name(s) of the organiser(s)
 
-Should you have any question related to the submission, please do not hesitate to contact us by email at xx\@ectqg.eu
+-   a short title for the session
 
-Happy submissions!
+-   a half-page description of its scope
 
-------------------------------------------------------------------------
+-   intentions and plans to publish a special issue in a journal
 
-## Call for special sessions
+Each accepted Special Session will be listed and described on the website. At the time of abstract submissions, researchers will be able to attach their abstract to an accepted Special Session or will be allocated to general themes of the ECTQG. The organiser(s) of the Special Session will be in charge of abstracts selection after registration and a pre-screening from the Local Scientific Committee.
+
+All necessary information such as important dates will be updated here.
+
+Should you have any question related to the submission, please do not hesitate to contact us by e-mail at **info\@ectqg.org**.
+
+We are looking forward to your proposals!
