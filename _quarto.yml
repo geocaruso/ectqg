@@ -28,6 +28,8 @@ website:
         menu:
           - text: "Calls"
             href: 2025/2025_calls.qmd
+          - text: "Special Sessions"
+            href: 2025/2025_special_sessions.qmd
           - text: "Venue"
             href: 2025/2025_venue.qmd
           - text: "Programme"

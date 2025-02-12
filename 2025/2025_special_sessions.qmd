@@ -1,0 +1,221 @@
+# List of Special Sessions
+
+Here you will find the list of the six proposed Special Sessions for the ECTQG 2025 conference. If you wish to present as a part of a Special Session, please mention this at the end of your abstract.
+
+### 1. **Environmental health studies**
+
+##### Organisers
+
+**Sandra Pérez** - *Associate Professor - UMR ESPACE 7300* - sandra.perez\@univ-cotedazur.fr
+
+**Virginie Chasles** - *Professor - UMR Environnement, Ville, Société 5600* - virginie.chasles\@univ-st-etienne.fr
+
+**Régis Darques** - *Research Associate - UMR ESPACE 7300* - regis.darques\@univ-cotedazur.fr
+
+*With the support of the UMR ESPACE, the CNFG and the International Geographical Union Commission on Health and the Environment (IGU-CHE)*
+
+##### Description
+
+The aim of this session is to provide a brief overview of the wide range of quantitative methods (modelling, AI) used in the field of environmental health to measure the importance of geographical space in pathologies affecting populations (chronic diseases, infectious diseases, etc.). The concepts of neighbourhood, proximity/distance and diffusion, as well as the more recent notion of cumulative exposure in space and time through the concept of the exposome, are often used in environmental health studies. The multiplicity of exposures, their complexity and the interactions between humans and their environment are now better taken into account. The heterogeneity and incompleteness of data and the need to work at very fine scales often force researchers to invent new methodologies. Similarly, the issues addressed by health geographers can generate new concepts that can be applied to other areas of geography. Because their findings are so compelling, questions of measurement and causality are at the heart of the environmental health studies. They are therefore closely linked to theoretical and quantitative geography.
+
+**Paper submission:** The papers would be synthesized and submitted to the Applied Geography Journal.
+
+### 2. **Novel spatial data and indicators for assessing the reality of 15-minute cities**
+
+##### Organisers
+
+Assistant Professor **Eric Koomen** - *Vrije Universiteit Amsterdam (VUA)*
+
+Dr **Chen Zhong** - *University College London (UCL)*
+
+Dr **Duncan Smith** - *University College London (UCL)*
+
+Dr **Joana Barros** - *University College London (UCL) & Birkbeck University of London (BBK)*
+
+Prof. **Fernando Bação** - *Universidade Nova de Lisboa (UNL)*
+
+##### Description
+
+The 15-minute city (15mC) concept is gaining momentum to improve the sustainability of cities. Ensuring that residents have their most essential services locally accessible through short walking, cycling, and public transport trips is an important step towards limiting greenhouse gas emissions, reducing air pollution, and creating healthier living environments. While many major cities have adapted the concept (e.g., C40, 2020), empirical evidence on the success of 15mC policies is so far limited. Research has begun developing indicators to assess local proximity to services (e.g., Logan et al., 2022). Still, these indicators do not yet include variables measuring the quality of the walking and cycling environment. They are typically limited in terms of the selection of trip types/amenities and the degree of demographic disaggregation. Moreover, they focus on the facilities residents can potentially reach, paying less attention to their actual behaviour. 
+
+The advent of novel, highly disaggregate data sources (e.g. GPS-tracks derived from mobile phone usage or dedicated travel apps) allows for capturing actual travel choices and developing more specific accessibility indicators. For this session we invite contributions focusing on applying novel spatial data to uncover the reality of 15-minute cities. Example topics may include, but are not limited to:
+
+-   Indicators of sustainable and inclusive cities
+
+-   Travel behaviour in relation to the 15-minute city
+
+-   Case studies of outer metropolitan areas and smaller towns
+
+-   Multimodal transport system
+
+-   Urban Mobility data analysis and modelling
+
+**Paper submission:** Subject to the number of high-quality abstracts received, a special issue in the Journal of Transport Geography or Environmental Planning B, around the topic of the 15-minute city, will be considered.
+
+### 3. **Sensing Functional Systems through Mobility from Big Data: From Neighbourhoods to Urban Regions and Global Networks**
+
+##### Organisers
+
+**Olle Järv** - *University of Helsinki*
+
+**Ate Poorthuis** - *KU Leuven*
+
+##### Description
+
+The analysis of functional systems through spatial interactions has been a long-standing interest in quantitative geography. While traditional approaches often focused on single cities or countries, limited themselves to specific kinds of mobility (e.g. commuting or migration), or a single point-in-time, new (big) digital data sources and computational methods have opened up new avenues. By not only providing new information on temporal rhythms of functional systems – such as neighbourhood communities, urban structures and functional urban regions – these systems can also be investigated at larger cross-country and global scales with such data sources. Such information can provide new insights on our dynamic, complex and networked society, capture new forms of mobilities (e.g. cross-border commuting) and social phenomena (e.g. multilocal lifestyles, digital nomadism), which both reshape existing functional systems and creates new ones. It can also help to shine new light on social groups or types of mobility that are often underrepresented in more conventional data sources (e.g. leisure mobility, people not present in official registers). For example, new data sources can help to examine how border regions from different countries forming one functional system based on peoples’ daily mobilities across country borders. Not the least, mobilities of people within functional systems also reveal inequalities such as intra-urban variations (e.g. segregation), urban-rural divide (e.g. regional left-behindness), country border differentials (e.g. cross-border commuting).
+
+This special session focuses on this new frontier regarding empirical evidence and methodological advancements as well as conceptual and theoretical considerations. We invite contributions that apply new computational affordances to furthering our understanding of these underlying functional systems derived from spatial interactions of people. This includes, but is not limited to:\
+ 
+
+-   The conceptualization of functional systems (e.g. community, city, region, transnational networks) from the perspective of mobilities and social interactions of people;
+
+-   The feasibility (opportunities, challenges) of novel data sources and methodology in capturing functional systems from the perspective of mobilities and social interactions of people;
+
+-   The transformation of mobile app, social media and other data sources into a reliable proxy for mobility flows
+
+-   The discussion on the future of (big) digital data source in mobility research in light of ethical (e.g. privacy), legal (e.g. use of data) and data access (e.g. data purchase) challenges.
+
+-   The analysis of cross-border (transnational) mobilities and the role of administrative borders in forming functional systems;
+
+-   The algorithmic inference of regions from mobility data and their change over time;
+
+-   The inference of different forms of mobility (i.e. those not conventionally captured in register data) from novel mobility data sources.
+
+**Paper submission:** -
+
+### 4. **Theoretical Geography and the History of Geography**
+
+##### Organisers
+
+**Clémentine Cottineau** - *T.U. Delft*
+
+**Cyrille Genre-Granpierre** - *U. Avignon*
+
+**Rémi Lemoy** - *U. Rouen*
+
+**Denise Pumain** - *U. Paris 1*
+
+**Juste Raimbault** - *IGN-ENSG / U. Gustave Eiffel*
+
+**Nicolas Szende** - *U. Paris 1 / U. Lille*
+
+**Isabelle Thomas** - *U.C. Louvain*
+
+##### Description
+
+Geography needs theories to consolidate its participation in research on subjects such as cities and the environment, which are increasingly being explored by a variety of disciplines, and of course to continue its involvement in the life of society in terms of scholarly education and regional planning. Theoretical construction is essential, and ECTQG colloquia are the ideal place to discuss it without fear (without wars? (Smith, 1992)).  
+
+Contributions to the theories of geography can be found at many levels, from the (rare) grand narratives, to revisions or complementation of existing theories, clarifications or hybridizations of certain concepts, improvements in methods of measurement and integration of new data, experimentation with models and their validation... All of these reflections can be enriched by forward-looking visions, but also through collecting and synthesizing knowledge about the evolution of epistemological proposals over time, in changing technological, political and social contexts. 
+
+Following on from discussions held at ECTQG23 in Braga, we invite ECTQG’25 participants in Tallin to contribute at any of these levels to the evolution of geographical theories, for example in relation to the following questions:
+
+-   60 years after the publication of Locational analysis in human geography (Haggett, 1965), 40 years after Stan Openshaw explored the MAUP problem (Openshaw 1984), how do geographers theorize the question of scale? After the slogan “location, location, location” (Jones & Simmons 1990), is there a new “scaling mania”? How to combine physical and virtual spatial interactions (Miller 2005; Thrift 2005)? How are evolving individual and collective representations and conceptions of space-time processes in geography? (Raimbault 2017).
+
+-   Which of geography's “knowledge objects” are transversal to our fields of study, and can contribute to develop more theoretical production, in physical as well as in human geography?  
+
+-   Where is theoretical geography practiced? By whom? Is it a set of practices that goes beyond the disciplinary matrix of geography? Which cultural variability appears in conceptions of theory, depending on the school or region where geography is practiced (Gyuris et al., 2022)?
+
+-   To what extent do general laws depend on extensive empirical statistical comparisons? Which contributions from data-driven modeling, AI, deep-learning, can be expected to the theoretical construction of geography as a discipline? How are geographers integrating the so-called “4th scientific paradigm”, considering it simply as a tool or as developing collective intelligence? (Kitchin 2014; Longley et al 2015; Tansley et al 2009). Many examples can be found about global trends, concerns for Anthropocene and sustainability or contemporary urban research.
+
+-   How do geographical theories interact with other domains of knowledge (Livet et al., 2010), in particular the production of data and empirical knowledge on one side, and the construction of models on the other?
+
+-   Which companionship is practiced with disciplines that have a more formal conception of complex systems for handling geographical processes (e.g. spatial interactions, fractals, scaling laws, network dynamics, human mobility, etc.)? (Reggiani et al 2021).
+
+-   Which explicit or implicit theories are mobilized in the narratives related to normative applications from geography (Cottineau et al. 2024)?
+
+**This special session aims at bringing together geographers interested in discussing these\
+questions and their contribution to theoretical geography more generally.**
+
+**Paper submission:** Authors are welcome for submitting their presentations after the colloquium to *Cybergeo, European Journal of Geography.*
+
+##### **References**
+
+Cottineau, C. et al, (2024). The role of analytical models and their circulation in urban studies and policy. Urban Studies, 00420980241237410.
+
+Gyuris, F., Michel, B., & Paulus, K. (Eds.). (2022). Recalibrating the Quantitative Revolution in Geography: Travels, Networks, Translations. London, Routledge.
+
+Haggett P. (1965) Locational Analysis in Human Geography. London, Edward Arnold.
+
+Jones, K., & Simmons, J. W. (1990). Location, location, location. Nelson Canada.
+
+Kitchin, R. (2014). Big Data, new epistemologies and paradigm shifts. Big data & society, 1(1), 2053951714528481.
+
+Livet, P., Müller, J. P., Phan, D., & Sanders, L. (2010). Ontology, a mediator for Agent Based Modeling in Social Science. Journal of Artificial Societies and Social Simulation, 13(1).
+
+Longley, P. A., Goodchild, M. F., Maguire, D. J., & Rhind, D. W. (2015). Geographic information science and systems. John Wiley & Sons.
+
+Miller, H. J. (2005). A measurement theory for time geography. Geographical Analysis, 37(1), 17-45.
+
+Openshaw, S. (1984). Ecological fallacies and the analysis of areal census data. Environment and planning A, 16(1), 17-31.
+
+Raimbault, J. (2017). An applied knowledge framework to study complex systems. arXiv preprint arXiv:1706.09244.
+
+Reggiani, A., Schintler, L. A., Czamanski, D., & Patuelli, R. (Eds.). (2021). Handbook on Entropy, Complexity and Spatial Dynamics: A Rebirth of Theory? Edward Elgar Publishing.
+
+Sanders, L. (2011). Géographie quantitative et analyse spatiale: quelles formes de scientificités? in Martin T. Les sciences humaines sont-elles des sciences? Paris, Vuibert.
+
+Smith, N. (1992). History and philosophy of geography: real wars, theory wars. Progress in human geography, 16(2), 257-271.
+
+Tansley, S., & Tolle, K. M. (2009). The fourth paradigm: data-intensive scientific discovery (Vol. 1). T. Hey (Ed.). Redmond, WA: Microsoft research.
+
+Thrift, N. (2005). Torsten Hägerstrand and social theory. Progress in Human Geography, 29(3), 337-340.
+
+### 5. **Theoretical Agent-Based Modelling**
+
+##### Organisers
+
+**Lucas Magalhães** - *Luxembourg Institute of Socio-Economic Research* - lvieiramagalhaes\@gmail.com
+
+**Geoffrey Caruso -** *University of Luxembourg* - geoffrey.caruso\@uni.lu
+
+##### Description
+
+Agent-based models (ABM) provide an innovative framework for exploring complex socio- spatial systems by simulating interactions between autonomous agents and their environments. Theoretical ABMs, also referred to as stylised, or even ”toy models,” intentionally oversimplify assumptions to isolate fundamental mechanisms driving non-linear, emergent phenomena. By formalising simplified mechanisms like proximity-based cooperation or competition, ABMs often escape the ”black-box” trap of traditional empirical studies, while also expanding beyond equilibrium-based deterministic frameworks. Such an approach allows researchers to embed heterogeneous agent interactions onto spatial contexts, offering valuable insights for phenomena like segregation \[1\], urban sprawl \[2\], and subcentre formation \[3\]. By stripping complex systems to their core rules, these models help reveal how small changes in micro-level preferences may cascade into fundamentally different macro-scale configurations in a complex system. Theoretical ABMs may, thus, help bridge abstract theory and empirical complexity, offering a useful laboratory to test hypotheses linking micro-scale behaviours to macro-scale patterns in socio-environmental systems modelling. This session invites contributions employing theoretical ABMs to explore geographic themes, including but not limited to: agglomeration vs. dispersion forces (e.g., settlement formation, firm clustering, rural depopulation), segregation dynamics (e.g., racial, economic), migration patterns (e.g., population displacement, gentrification dynamics), knowledge diffusion (e.g., innovation, cultural, language). Additional topics could also address inter-urban urbanisation patterns (e.g., systems of cities), the development of transportation networks (e.g., historical processes, desire lines). We welcome work employing ABM as their core method; as a complementary tool for enhancing the understanding of complex dynamics; highlighting methodological advancements focused on programming or the optimisation of ABMs; or even critiques of existing modelling approaches and techniques. Submissions should emphasise the role of simplified rules in generating theoretical insights, beyond traditional deterministic frameworks.
+
+**Paper submission:** -
+
+##### **References**
+
+\[1\] Schelling, Thomas C. (1971). Dynamic models of segregation. The Journal of Mathematical Sociology. 1(2). Informa UK Limited: 143–186. doi:10.1080/ 0022250x.1971.9989794
+
+\[2\] Caruso, G., Peeters, D., Cavailh\`es, J., & Rounsevell, M. (2007). Spatial configurations in a periurban city. A cellular automata-based microeconomic model. Regional Science and Urban Economics. 37(5), 542–567.
+
+\[3\] Delloye, J., Lemoy, R., & Caruso, G. (2018). Alonso and the Scaling of Urban Profiles. Geographical Analysis. 52. doi:10.1111/ gean.12191
+
+### 6. **Validation of Spatial Simulation Models**
+
+##### Organisers
+
+**Juste Raimbault** - *UGE, IGN-ENSG*
+
+**Denise Pumain** - *U. Paris 1*
+
+**Paul Chapron** - *UGE, IGN-ENSG*
+
+**Julien Perret** - *UGE, IGN-ENSG*
+
+**Romain Reuillon** - *ISC-PIF*
+
+**Mathieu Leclaire** - *ISC-PIF*
+
+**Sébastien Rey-Coyrehourcq** - *U. Rouen*
+
+**Etienne Delay** - *CIRAD*
+
+Spatial simulation models are an essential component for the production of knowledge in Theoretical and Quantitative Geography, as their many functions (Varenne, 2018) include for example the test of hypotheses from theory, causal analysis of spatio-temporal processes, scenario analysis for decision-making and planning, or advanced analysis of empirical data through calibration, to name a few. Methods and tools for their validation have been developed since their inception, but remain a priority research topic both from a theoretical and practical viewpoint. New methods have been introduced in recent years (Raimbault and Pumain, 2019) and implemented into open software tools such as OpenMOLE (Reuillon et al., 2013).
+
+We propose to discuss in this special session recent developments in methods, theory and practice of the validation of geosimulation models, such as for example:
+
+-   what properties of spatio-temporal complexity increase the difficulty to validate such models?
+
+-   what are the different definitions of validation and communities of practice within various disciplines involved with Theoretical and Quantitative Geography?
+
+-   spatial sensitivity analysis (Raimbault et al., 2019) and similar methodologies to disentangle geographical contingencies from generic processes;
+
+-   methods stemming from recent progresses in machine learning, such as learning model surrogates, or the integration of Large Language Models into agent-based models;
+
+-   new model exploration methods with an application to spatial models;
+
+-   methods involving stakeholders such as companion modelling (Chapron et al., 2019).
+
+**Paper submission:** We plan to invite contributors to the session to submit the full version of their paper to the *GeoOpenMod* collection of *Cybergeo, European Journal of Geography.*
