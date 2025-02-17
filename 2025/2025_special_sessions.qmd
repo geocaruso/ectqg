@@ -180,7 +180,7 @@ Agent-based models (ABM) provide an innovative framework for exploring complex s
 
 \[2\] Caruso, G., Peeters, D., Cavailh\`es, J., & Rounsevell, M. (2007). Spatial configurations in a periurban city. A cellular automata-based microeconomic model. Regional Science and Urban Economics. 37(5), 542–567.
 
-\[3\] Delloye, J., Lemoy, R., & Caruso, G. (2018). Alonso and the Scaling of Urban Profiles. Geographical Analysis. 52. doi:10.1111/ gean.12191
+\[3\] Delloye, J., Peeters, D., & Thomas, I. (2015). On the Morphology of a Growing City: A Heuristic Experiment Merging Static Economics with Dynamic Geography. PloS One, 10, e0135871. <https://doi.org/10.1371/journal.pone.0135871>
 
 ### 6. **Validation of Spatial Simulation Models**
 
