@@ -28,12 +28,16 @@ website:
         menu:
           - text: "Calls"
             href: 2025/2025_calls.qmd
-          - text: "Special Sessions"
-            href: 2025/2025_special_sessions.qmd
+          - text: "Registration"
+            href: 2025/2025_registration.qmd
           - text: "Venue"
             href: 2025/2025_venue.qmd
           - text: "Programme"
             href: 2025/2025_programme.qmd
+          - text: "Keynotes"
+            href: 2025/2025_keynotes.qmd
+          - text: "Special Sessions"
+            href: 2025/2025_special_sessions.qmd
           - text: "ECTGQ 2025, Tallinn"
             href: 2025/2025_welcome.qmd
       - text: "European Colloquium on Theoretical and Quantitative Geography"

@@ -1,7 +1,15 @@
 # 24th ECTQG, Tallinn, September 10-14, 2025
 
+------------------------------------------------------------------------
+
 - [Calls](2025_calls.html)
+
+- [Registration](2025_registration.html)
 
 - [Venue](2025_venue.html)
 
 - [Programme](2025_programme.html)
+
+- [Keynotes](2025_keynotes.html)
+
+- [Special sessions](2025_special_sessions.html)

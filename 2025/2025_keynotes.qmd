@@ -1,0 +1,52 @@
+# ECTQG 2025 Keynotes
+
+------------------------------------------------------------------------
+
+![](Heppenstall.png)
+
+[**Professor Alison Heppenstall**]{style="color: gold"}
+
+University of Glasgow, UK
+
+Alison Heppenstall is a Professor of Geocomputation within the School of Social and Political Sciences at the University of Glasgow. She holds a PhD in Computer Science from the University of Leeds and was a Lecturer and Associate Professor with the School of Geography at the University of Leeds. She is an Alan Turing Fellow.
+
+Alison’s expertise is in the development of AI and ML approaches to simulating the dynamics and processes within urban areas. She is particularly fond of individual-based approaches such as microsimulation and agent-based modelling. Her other interests are in synthetic population generation, uncertainty quantification and exascale computation. Her work has been funded by numerous UK and international agencies. She is one of the Editors of Computers, Environment and Urban Systems and won the 2023 International Society of Computational Economics prize for “outstanding work in the area of computational economics and general computational statistics”.
+
+[Alison Heppenstall](https://www.gla.ac.uk/schools/socialpolitical/staff/alisonheppenstall)
+
+> **Keynote:** Thursday 9:30–11:00 Kosmos Lecture Hall \
+> ***Learning the City*** \
+> AI-Driven Approaches to Urban Complexity Cities are complex, dynamic systems shaped by human behaviour, infrastructure, and policy. As urban areas face mounting challenges-from climate change and congestion to housing and inequality-AI and machine learning offer alternative tools to analyse, simulate, and inform decision-making at scale. This talk explores how emerging methods, including synthetic data generation, geospatial machine learning, and agent-based modelling, are transforming urban analytics. By combining real and synthetic datasets, we can build more robust and accurate models that support smarter urban planning, mobility forecasting, and public service delivery. This talk will use examples from current work to highlight the potential of AI-driven urban intelligence to create more equitable and resilient cities.
+
+------------------------------------------------------------------------
+
+![](Toivonen.png)
+
+[**Professor Tuuli Toivonen**]{style="color: gold"}
+
+University of Helsinki, Finland
+
+Leading expert in geoinformatics, focusing on understanding dynamics of people and places, and their interactions, in both urban and natural areas using accessibility and mobility as lenses to these interactions. She is also eveloping approaches to leverage open/big data, spatial analytics and machine learning.
+
+[Tuuli Toivonen](https://researchportal.helsinki.fi/fi/persons/tuuli-toivonen)
+
+> **Keynote:** Friday 9:30–11:00 Kosmos Lecture Hall \
+> ***Title to be announced*** \
+
+------------------------------------------------------------------------
+
+![](Tammaru.png)
+
+[**Professor Tiit Tammaru**]{style="color: gold"}
+
+University of Tartu, Estonia
+
+Tiit Tammaru is Professor of Urban and Population Geography at the University of Tartu, Estonia, where he leads research on socio-spatial inequalities, migration, and segregation. He has played a central role in building Estonia’s long-term population data infrastructure, serving as head of the Infotechnological Mobility Observatory (imo.ut.ee), which integrates census and register data with mobility datasets. His research develops new conceptual and empirical approaches to understanding how inequalities are produced and reproduced across the life course and generations, most notably through the vicious circles of segregation framework (segregationcircles.eu). He has published extensively on residential mobility, migration, urban change, and the spatial consequences of digital transition, with work appearing in leading international journals and edited volumes. He is also a member of the global SegregationLab (segregationlab.com), an international network advancing comparative research on segregation. In addition to his academic work, Tammaru engages actively with policy debates on housing, regional development, and urban planning, helping to bridge research, data innovation, and policymaking in Estonia and internationally.
+
+[Tiit Tammaru](https://www.etis.ee/CV/Tiit_Tammaru/eng/)
+
+> **Keynote:** Saturday 9:30–11:00 Kosmos Lecture Hall\
+> ***Beyond Home–Activity Space Antagonism: Understanding the Vicious Circles of Segregation***\
+> Segregation research has its origins in the study of residential neighbourhoods, from the pioneering maps of Charles Booth in London to the Chicago School of urban sociologists, grounded in census data. With the advent of big data, critics have argued that home locations merely capture the “sleeping population” and are insufficient for understanding social life, calling instead for an activity space approach that shifts attention to schools, workplaces, and leisure time activity places. This keynote aims to transcend this antagonism. It develops the vicious circles of segregation framework, linking how inequalities are produced and reproduced across multiple activity places, centred around the home location. Segregation emerges through sorting into different places and the contextual effects gained within them. Drawing on register data, longitudinal evidence, and mobility-based studies, the talk shows how segregation in one activity place spills into others, generating self-reinforcing feedback loops. These insights are vital for breaking cycles of disadvantage and for rethinking contemporary urban planning paradigms such as the 15-minute city.
+
+------------------------------------------------------------------------

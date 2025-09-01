@@ -1,7 +1,26 @@
-# ECTQG 2025 Programme
-
-Tallinn, September 2025, 10-14
+# ECTQG 2025 Venue
 
 ------------------------------------------------------------------------
 
-Venue details will be updated here closer to the event.
+## Öpik Building
+
+The ECTQG 2025 conference will take place in the **Öpik Building**, located in **Ülemiste City**, *Valukoja 8, 11415 Tallinn, Estonia.*
+
+Named after Estonian astronomer Ernst Öpik, the building is a contemporary, energy-efficient complex designed for modern working and event needs. Its two towers are connected by a spacious atrium that provides natural light and shared common areas. The Öpik Conference Centre, situated within the building, offers a flexible and well-equipped setting for both plenary sessions and smaller workshops.
+
+![](venue.png)
+
+The venue is easily accessible and part of Tallinn’s largest business campus, known for its focus on innovation and sustainability.
+
+## About Ülemiste City
+
+Ülemiste City is a business and innovation district located next to Lennart Meri International Airport in Tallinn. Developed on the site of a former industrial area, it has gradually evolved into Estonia’s largest knowledge-focused business campus.
+
+![](Ulemiste1.png)
+
+Spanning approximately 30 hectares, the district hosts over 400 companies and a growing international community of professionals. Ülemiste City combines office spaces, housing, education, and services in a walkable urban environment, aiming to support both professional activity and everyday life in a well-integrated setting.
+
+![](Ulemiste2.png)
+
+
+**The ECTQG 2025 is sponsored by Mainor OÜ, Ülemiste City**
