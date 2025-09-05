@@ -26,12 +26,14 @@ Alison’s expertise is in the development of AI and ML approaches to simulating
 
 University of Helsinki, Finland
 
-Leading expert in geoinformatics, focusing on understanding dynamics of people and places, and their interactions, in both urban and natural areas using accessibility and mobility as lenses to these interactions. She is also eveloping approaches to leverage open/big data, spatial analytics and machine learning.
+Tuuli Toivonen is a geographer and professor of geoinformatics at the University of Helsinki, where she leads the interdisciplinary Digital Geography Lab. Her research focuses on understanding the dynamics of people and places—and their interactions—in both urban and natural environments, using accessibility and mobility as key perspectives. An important part of her work involves developing approaches that leverage open and big data, spatial analytics, and machine learning. In addition to applied geoinformatics, her research contributes to urban geography, land-use and transport planning, sustainability science, and conservation geography.
 
 [Tuuli Toivonen](https://researchportal.helsinki.fi/fi/persons/tuuli-toivonen)
 
 > **Keynote:** Friday 9:30–11:00 Kosmos Lecture Hall \
-> ***Title to be announced*** \
+> ***The current state and future directions of mobility/accessibility research in Finland and beyond*** \
+> In this talk, I will examine how the focus of accessibility and mobility research has evolved in recent years and outline potential future directions. In the European context, the field has been shaped by three interrelated developments: 1) profound shifts in spatio-temporal patterns of human activity driven by the pandemic, geopolitical transformations, environmental crises, and emerging technological solutions; 2) changes in the availability of and access to new forms of data and technologies; and 3) an increasing demand for diverse analytical measures that capture dynamics of people not only for “average” populations but across various social groups, and not only for efficiency but also for experience. The discussion will draw on the experiences and findings of our research group, the Digital Geography Lab at the University of Helsinki.
+
 
 ------------------------------------------------------------------------
 
